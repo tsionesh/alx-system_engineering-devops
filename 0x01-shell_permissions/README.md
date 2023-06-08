@@ -1,1 +1,1 @@
-new task
+shell_permissions
